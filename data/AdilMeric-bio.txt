@@ -1,0 +1,1 @@
+I’m an Informatics MSc student at the Technical University of Munich (TUM). I earned my BSc in Computer Science from Bilkent University. My research interests are in computer vision, with a particular focus on video, multi-view, and 3D generation.

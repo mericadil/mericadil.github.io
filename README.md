@@ -1,1 +1,1 @@
-# mericadil.github.io
+This website template  is taken from: https://jonbarron.info/.
